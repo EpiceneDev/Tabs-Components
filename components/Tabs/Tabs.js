@@ -18,6 +18,7 @@ class TabLink {
 
   };
 
+  ///Select tabs
   select() {
     // Get all of the elements with the tabs-link class
     // const links;
@@ -34,7 +35,7 @@ class TabLink {
   }
 
 }
-
+//comment
 class TabItem {
   constructor(element) {
     // Assign this.element to the passed in element
